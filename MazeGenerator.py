@@ -7,8 +7,8 @@ to_move = 25
 of_map = 100
 
 # can be green, yellow, blue or any color you want. you can even hex colors. "" for no color
-background_color = "black"
-line_color = "white"
+background_color = "white"
+line_color = "black"
 
 lines = []
 directions = ['up', 'down', 'right', 'left']
